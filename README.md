@@ -1,21 +1,3 @@
 Amsterdam-Declaration
 =====================
 
-humanism is an idea
-
-# take my love of technology back into my heart after trauma in the corporate technological stack of dehumanization
-# hardware: open main board, HDD, fan
-# sw: real time os, lower level machine language? tbd
-# start religious experience
-# ingest image daughtersatstephenhawkingcenter.png
-# process image daughtersatstephenhawkingcenter.png for face and text recognition
-# enter into a moderately active processing state based on failed face and text recognition
-# raise first error of cognitive dissonance
-# kill moderately active processing state with no trace of inputs or outputs
-# initiate disk chatter, CPU consumption, fan noise
-# print OH FUCK OH FUCK OH FUCK OH FUCK OH FUCK
-# kill all processes and enter a restful state (streamwriter null, for eg)
-# print text BUILD A BATHTUB MARY
-# open web browser, call a crawler
-# silently retrieve and display images of bathtub marys
-# continue to cycle initial process in restful state
