@@ -1,3 +1,0 @@
-Amsterdam-Declaration
-=====================
-
