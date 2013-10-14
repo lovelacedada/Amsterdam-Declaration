@@ -1,0 +1,7 @@
+# Create a web service that
+# ingests a PNG
+# chops it up to make 20 PNGs
+# returns the PNGs in a zip file
+# called brown _paper_bag.zip
+# and let the collage of word poems begin
+# dada
